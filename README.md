@@ -13,3 +13,6 @@
 
 ### 快速：
 - 宽带的速度决定了文件的传输速度。
+
+## 使用方式 & 下载地址
+[https://p-pass-file-website.deno.dev/](https://p-pass-file-website.deno.dev/)
